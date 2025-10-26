@@ -1,7 +1,7 @@
 ## Hi there, I am Edidiong Archibong 👋
 
 <!--
-About Me 🚀
+## About Me 🚀
 
 I’m a Backend Developer in training with a growing specialization in fintech and web backend development using Python, Django, and SQL.
 
